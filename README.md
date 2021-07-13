@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FunkeMonke
 - 👀 I’m interested in Data Science with Python
-- 🌱 I’m currently learning Chemical Engineering 
+- 🌱 NJIT Chemical Engineer BS 2022
 - 💞️ I’m looking to collaborate on Data Science based projects
 - 📫 How to reach me ms2489@njit.edu
 
